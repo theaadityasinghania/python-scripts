@@ -1,4 +1,4 @@
-# Write a program to find the maximum of two numbers stored in variables.
+# Program to find the maximum of two numbers stored in variables.
 
 
 x=int(input("Enter the first number here: "))
